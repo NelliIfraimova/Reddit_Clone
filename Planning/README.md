@@ -1,23 +1,23 @@
-# Reddit_Clone
-# Planning 
-# A Reddit clone, styled and built for girls
 
-# User Story
-# As a user, I want to be able to:
+# Description
+A Reddit clone, styled and built for girls
 
-# Search for different communities/topics (subreddits)
+## User Story
+As a user, I want to be able to:
 
-# Make posts:
-## images and texts
+Search for different communities/topics (subreddits)
 
-# Like
-## posts and comments
+Make posts:
+images and texts
 
-# have a single place to view all my activity
+Like
+posts and comments
 
-# have a single place to view other's activity
-## based on my personal interests
-## based on trends
+have a single place to view all my activity
+
+have a single place to view other's activity
+based on my personal interests
+based on trends
 
 
 
