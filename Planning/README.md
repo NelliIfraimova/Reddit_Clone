@@ -2,22 +2,22 @@
 # Description
 A Reddit clone, styled and built for girls
 
-## User Story
-### As a user, I want to be able to:
 
-* Search for different communities/topics (subreddits)
+## As a user, I want to be able to:
 
-* Make posts:
+### Search for different communities/topics (subreddits)
+
+### Make posts:
  * images 
  * and texts
 
-* Like
+### Like
  * posts 
  * and comments
 
-* View my activity in one place (my posts and likes)
+### View my activity in one place (my posts and likes)
 
-* View other's activity:
+### View other's activity:
  * based on my personal interests
  * based on trends
 
