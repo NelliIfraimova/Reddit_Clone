@@ -7,17 +7,19 @@ A Reddit clone, styled and built for girls
 
 Search for different communities/topics (subreddits)
 
-Make posts:
-images and texts
+* Make posts:
+- images 
+- and texts
 
-Like
-posts and comments
+* Like
+- posts 
+- and comments
 
-have a single place to view all my activity
+* View my activity in one place (my posts and likes)
 
-have a single place to view other's activity:
-based on my personal interests
-based on trends
+* View other's activity:
+- based on my personal interests
+- based on trends
 
 
 
